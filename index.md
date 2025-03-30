@@ -2,10 +2,10 @@
 layout: default
 ---
 
-B-Spoke Systems Integration
+Bespoke software and home automation systems integration.
 
 Serving Denver/Boulder Metro
 
-(983) 210-2774
+[(983) 210-BSSI](tel:+19832102774)
 
-inquiry@bssi.co
+[email](mailto:inquiry@bssi.co?Subject=Website%20Inquiry)
