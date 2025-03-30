@@ -1,0 +1,9 @@
+theme: jekyll-theme-hacker
+name: BSSI Web
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+permalink: /:categories/:year/:month/:day/:title
+title: B-Spoke Systems Integration
+description: Completely Custom Home Automation in Denver/Boulder
+
