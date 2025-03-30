@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![B with spokes logo](assets/2025-03-30_logo.png)
+
 Bespoke software and home automation systems integration.
 
 Serving Denver/Boulder Metro
